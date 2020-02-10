@@ -1,0 +1,12 @@
+{
+  "name": "io.cronapp.apps.todo",
+  "displayName": "TO-DO",
+  "version": "1.0.0",
+  "description": "TO-DO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CronApp IDE",
+  "license": "Apache-2.0"
+}

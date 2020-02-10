@@ -1,0 +1,13 @@
+window.dataSourceMap = window.dataSourceMap || [];
+window.dataSourceMap["app.PALESTRANTE"] = { customId: "app.entity.PALESTRANTE", serviceUrl: "api/cronapi/crud/app.entity.PALESTRANTE", serviceUrlODATA: "/api/cronapi/odata/v2/app/PALESTRANTE" };
+window.dataSourceMap["app.device"] = { customId: "device", serviceUrl: "api/cronapi/query/1jy88nt41afza/", serviceUrlODATA: "/api/cronapi/odata/v2/app/device" };
+window.dataSourceMap["app.EVENTO"] = { customId: "app.entity.EVENTO", serviceUrl: "api/cronapi/crud/app.entity.EVENTO", serviceUrlODATA: "/api/cronapi/odata/v2/app/EVENTO" };
+window.dataSourceMap["app.User"] = { customId: "app.entity.User", serviceUrl: "api/cronapi/crud/app.entity.User", serviceUrlODATA: "/api/cronapi/odata/v2/app/User" };
+window.dataSourceMap["app.query779762"] = { customId: "query779762", serviceUrl: "api/cronapi/odata/v2/app/query779762/", serviceUrlODATA: "/api/cronapi/odata/v2/app/query779762" };
+window.dataSourceMap["app.auth"] = { customId: "auth", serviceUrl: "api/cronapi/query/auth/", serviceUrlODATA: "/api/cronapi/odata/v2/app/auth" };
+window.dataSourceMap["app.roles"] = { customId: "roles", serviceUrl: "api/cronapi/query/roles/", serviceUrlODATA: "/api/cronapi/odata/v2/app/roles" };
+window.dataSourceMap["app.PALESTRA"] = { customId: "app.entity.PALESTRA", serviceUrl: "api/cronapi/crud/app.entity.PALESTRA", serviceUrlODATA: "/api/cronapi/odata/v2/app/PALESTRA" };
+window.dataSourceMap["app.Device"] = { customId: "app.entity.Device", serviceUrl: "api/cronapi/crud/app.entity.Device", serviceUrlODATA: "/api/cronapi/odata/v2/app/Device" };
+window.dataSourceMap["app.Role"] = { customId: "app.entity.Role", serviceUrl: "api/cronapi/crud/app.entity.Role", serviceUrlODATA: "/api/cronapi/odata/v2/app/Role" };
+window.dataSourceMap["app.PARTICIPANTE"] = { customId: "app.entity.PARTICIPANTE", serviceUrl: "api/cronapi/crud/app.entity.PARTICIPANTE", serviceUrlODATA: "/api/cronapi/odata/v2/app/PARTICIPANTE" };
+window.dataSourceMap["app.PARTICIPANTEPALESTRA"] = { customId: "app.entity.PARTICIPANTEPALESTRA", serviceUrl: "api/cronapi/crud/app.entity.PARTICIPANTEPALESTRA", serviceUrlODATA: "/api/cronapi/odata/v2/app/PARTICIPANTEPALESTRA" };
