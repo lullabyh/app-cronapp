@@ -22,3 +22,5 @@ Esta é uma aplicação criada com o CronApp IDE.
 ## Referências
 
 [CronApp IDE](http://www.cronapp.io/)
+
+Aplicação para criação de eventos utilizando CronApp.
